@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "User_id": "31ye7ziujd5uimpbugl3jwai5bti",
+        "User": "Daniel",
+        "Playlist": [
+            [
+                "Urban",
+                "https://open.spotify.com/playlist/2dxR9KZjEWbGEhCpE80x5u"
+            ],
+            [
+                "Gym",
+                "https://open.spotify.com/playlist/0mxBcJWWmIAeqoBk1UFmuL"
+            ],
+            [
+                "Chill 2",
+                "https://open.spotify.com/playlist/0djjWUGt5qfamNOKnQSfUS"
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "User_id": "",
+        "User": "",
+        "Playlist": [
+            [
+                "Urban",
+                "https://open.spotify.com/playlist/2dxR9KZjEWbGEhCpE80x5u"
+            ],
+            [
+                "Gym",
+                "https://open.spotify.com/playlist/0mxBcJWWmIAeqoBk1UFmuL"
+            ],
+            [
+                "Chill 2",
+                "https://open.spotify.com/playlist/0djjWUGt5qfamNOKnQSfUS"
+            ]
+        ]
+    }
+]

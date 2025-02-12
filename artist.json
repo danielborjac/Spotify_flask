@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "User_id": "31ye7ziujd5uimpbugl3jwai5bti",
+        "User": "Daniel",
+        "Artist": [
+            [
+                "Coldplay",
+                "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+            ],
+            [
+                "Red Hot Chili Peppers",
+                "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            ],
+            [
+                "Queen",
+                "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "User_id": "",
+        "User": "",
+        "Artist": [
+            [
+                "Coldplay",
+                "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+            ],
+            [
+                "Red Hot Chili Peppers",
+                "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+            ],
+            [
+                "Queen",
+                "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            ]
+        ]
+    }
+]
